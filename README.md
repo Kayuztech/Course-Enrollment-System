@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -64,3 +65,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# Course-Enrollment-System
+A Laravel 11 Course Enrollment System with Livewire &amp; Tailwind. Features user auth, course listing, enrollment, comments, real-time updates, REST API with JWT, and queued email/comment notifications.
+>>>>>>> eb5bbab1f5ab367201e3e14fe1ef96610a7b014d

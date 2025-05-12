@@ -20,4 +20,9 @@ class Course extends Model
     {
         return $this->hasMany(Comment::class);
     }
+
+    public function enrollments()
+    {
+    return $this->hasMany(Enrollment::class);
+    }
 }
